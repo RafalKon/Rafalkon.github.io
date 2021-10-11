@@ -5,9 +5,9 @@
 }
 
 .side-left img {
-  width: 240px;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  width: 150px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   margin: 20px 10px;
 }
 
@@ -15,6 +15,7 @@
   color: rgb(245, 245, 245);
   padding-top: 50px;
 }
+
 .blueParagraph {
   color: rgb(118, 151, 197);
 }
@@ -25,16 +26,19 @@
 
 #section-1 {
   background-color: rgb(33, 83, 152);
-  padding-bottom: 50px;
+  padding-bottom: 70px;
 }
+
 #section-2 {
   background-color: rgb(245, 245, 245);
+  padding-top: 15px;
   padding-bottom: 50px;
 }
 
 .title {
   text-align: center;
 }
+
 .card {
   margin: 40px 18px;
 }
@@ -42,7 +46,7 @@
 #section-2::before {
   background-color: rgb(255, 56, 89);
   position: relative;
-  bottom: 20px;
+  bottom: 35px;
   left: calc(50% - 1em);
   content: "";
   display: block;
